@@ -1,3 +1,3 @@
 # LabyPSiO
 
-Fest dobre rzeczy
+Repozytorium kursu Programowanie Strukturalne i Obiektowe Lab.
